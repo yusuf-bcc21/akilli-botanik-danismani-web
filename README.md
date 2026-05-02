@@ -38,9 +38,3 @@ npm run dev
 * `public/`: 3D modeller ve ikonlar gibi statik dosyalar.
 * `src/`: Uygulama kaynak kodları, React bileşenleri ve stil dosyaları.
 * `.gitignore`: `.env` ve `node_modules` gibi hassas veya gereksiz dosyaların Git'e yüklenmesini engeller.
-
-## ⚠️ Önemli Notlar
-
-- `.env` dosyanızı asla GitHub gibi açık kaynak platformlarda paylaşmayın.
-- Projede kullanılan 3D modelin (`saksi.glb`) doğru görünmesi için tarayıcınızın WebGL desteğinin açık olduğundan emin olun.
-
